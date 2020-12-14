@@ -60,7 +60,7 @@
   },
   "peerDependencies": {
     "react": "^16.8",
-    "react-native": ">=0.59"
+    "react-native": "^0.59"
   },
   "dependencies": {
     "deep-assign": "^3.0.0"
