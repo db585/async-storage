@@ -59,8 +59,8 @@
     "test:e2e:macos": "scripts/macos_e2e.sh 'test'"
   },
   "peerDependencies": {
-    "react": "^16.8",
-    "react-native": "^0.59"
+    "react": "^16.8.0",
+    "react-native": "^0.59.0"
   },
   "dependencies": {
     "deep-assign": "^3.0.0"
